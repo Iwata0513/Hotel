@@ -1,2 +1,3 @@
 # WordPressTest
 WordPress 仕事の現場でサッと使えるデザイン教科書の練習に利用中
+テストコミット
